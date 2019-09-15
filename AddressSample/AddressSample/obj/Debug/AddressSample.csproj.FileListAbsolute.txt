@@ -1,0 +1,6 @@
+C:\Users\glab\Desktop\AddressSample\AddressSample\bin\Debug\AddressSample.exe.config
+C:\Users\glab\Desktop\AddressSample\AddressSample\obj\Debug\AddressSample.csprojResolveAssemblyReference.cache
+C:\Users\glab\Desktop\AddressSample\AddressSample\bin\Debug\AddressSample.exe
+C:\Users\glab\Desktop\AddressSample\AddressSample\bin\Debug\AddressSample.pdb
+C:\Users\glab\Desktop\AddressSample\AddressSample\obj\Debug\AddressSample.exe
+C:\Users\glab\Desktop\AddressSample\AddressSample\obj\Debug\AddressSample.pdb
