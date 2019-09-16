@@ -1,0 +1,6 @@
+C:\Users\glab\Desktop\IPEndPointSample\IPEndPointSample\bin\Debug\IPEndPointSample.exe.config
+C:\Users\glab\Desktop\IPEndPointSample\IPEndPointSample\bin\Debug\IPEndPointSample.exe
+C:\Users\glab\Desktop\IPEndPointSample\IPEndPointSample\bin\Debug\IPEndPointSample.pdb
+C:\Users\glab\Desktop\IPEndPointSample\IPEndPointSample\obj\Debug\IPEndPointSample.csprojResolveAssemblyReference.cache
+C:\Users\glab\Desktop\IPEndPointSample\IPEndPointSample\obj\Debug\IPEndPointSample.exe
+C:\Users\glab\Desktop\IPEndPointSample\IPEndPointSample\obj\Debug\IPEndPointSample.pdb
