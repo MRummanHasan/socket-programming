@@ -1,0 +1,10 @@
+C:\Users\glab.KIETNN\Desktop\Hassan\TCPListener\TCPListener\bin\Debug\TCPListener.exe.config
+C:\Users\glab.KIETNN\Desktop\Hassan\TCPListener\TCPListener\obj\Debug\TCPListener.csprojResolveAssemblyReference.cache
+C:\Users\glab.KIETNN\Desktop\Hassan\TCPListener\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+C:\Users\glab.KIETNN\Desktop\Hassan\TCPListener\TCPListener\obj\Debug\TCPListener.csproj.GenerateResource.Cache
+C:\Users\glab.KIETNN\Desktop\Hassan\TCPListener\TCPListener\bin\Debug\TCPListener.exe
+C:\Users\glab.KIETNN\Desktop\Hassan\TCPListener\TCPListener\bin\Debug\TCPListener.pdb
+C:\Users\glab.KIETNN\Desktop\Hassan\TCPListener\TCPListener\bin\Debug\SimpleTCP.dll
+C:\Users\glab.KIETNN\Desktop\Hassan\TCPListener\TCPListener\obj\Debug\TCPListener.Form1.resources
+C:\Users\glab.KIETNN\Desktop\Hassan\TCPListener\TCPListener\obj\Debug\TCPListener.exe
+C:\Users\glab.KIETNN\Desktop\Hassan\TCPListener\TCPListener\obj\Debug\TCPListener.pdb
