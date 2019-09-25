@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,6 +17,7 @@ namespace notepad
         public string contents = string.Empty;
         string currentFileLoc;
 
+        string path = "";
         public Form1()
         {
             InitializeComponent();
@@ -29,20 +30,24 @@ namespace notepad
 
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //Only open RTF Files i.e Wordpad
-            // Create an OpenFileDialog to request a file to open.
-            OpenFileDialog openFile1 = new OpenFileDialog();
-
-            // Initialize the OpenFileDialog to look for RTF files.
-            openFile1.DefaultExt = "*.rtf";
-            openFile1.Filter = "RTF Files|*.rtf";
-
-            // Determine whether the user selected a file from the OpenFileDialog.
-            if (openFile1.ShowDialog() == System.Windows.Forms.DialogResult.OK && openFile1.FileName.Length > 0)
+            DialogResult openResult = openFileDialog1.ShowDialog();
+            if (openResult == DialogResult.OK)
             {
-                // Load the contents of the file into the RichTextBox.
-                richTextBox1.LoadFile(openFile1.FileName);
+                path = openFileDialog1.FileName;
+                try
+                {
+                    StreamReader fileOpen = new StreamReader(path);
+                    String contents = fileOpen.ReadToEnd();
+                    fileOpen.Close();
+
+                    richTextBox1.Text = contents;
+                }
+                catch (IOException ioe)
+                {
+                    MessageBox.Show("Error opening file: "+ioe.Message);
+                }
             }
+
         }
 
 
@@ -58,6 +63,8 @@ namespace notepad
             else
                 SaveFile();
         }
+
+
         private int SaveFile()
         {
             sfd.Filter = "Text Documents|*.txt";
@@ -94,5 +101,23 @@ namespace notepad
         {
 
         }
+
+        private void aboutUsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Developed & Design by: Rumman\nCode: https://github.com/MRummanHasan/socket-programming \nConcept by: Microsoft Notepad");
+        }
+
+        private void wrapTextToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (wrapTextToolStripMenuItem.Checked == true)
+            {
+                richTextBox1.WordWrap = true;
+            }
+            else
+            {
+                richTextBox1.WordWrap = false;
+            }
+        }
+ 
     }
 }
