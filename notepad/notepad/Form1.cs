@@ -94,7 +94,13 @@ namespace notepad
 
         private void fontToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            FontDialog fontDialog1 = new FontDialog();
+            DialogResult result = fontDialog1.ShowDialog();
 
+            // Get Font.
+            Font font = fontDialog1.Font;
+            // Set TextBox properties.
+            this.richTextBox1.Font = font;
         }
 
         private void Form1_Load(object sender, EventArgs e)
