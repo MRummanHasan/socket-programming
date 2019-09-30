@@ -53,43 +53,78 @@ namespace notepad
 
         private void saveToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (currentFileLoc != null)
+            if (path == String.Empty)
             {
-                using (StreamWriter writer = new StreamWriter(currentFileLoc))
+                DialogResult saveResult = saveFileDialog1.ShowDialog();
+
+                if (saveResult == DialogResult.OK)
                 {
-                    writer.WriteLine(richTextBox1.Text);
+                    path = saveFileDialog1.FileName;
+
+                    try
+                    {
+                        StreamWriter sw = new StreamWriter(path);
+                        sw.Write(richTextBox1.Text);
+                        sw.Close();
+                    }
+                    catch (IOException ioe)
+                    {
+
+                        MessageBox.Show("Error saving file: " + ioe.Message);
+                    }
                 }
             }
             else
-                SaveFile();
-        }
-
-
-        private int SaveFile()
-        {
-            sfd.Filter = "Text Documents|*.txt";
-            sfd.DefaultExt = "txt";
-            if (sfd.ShowDialog() == DialogResult.Cancel)
             {
-                richTextBox1.Focus();
-                return 0;
-            }
-            else
-            {
-                contents = richTextBox1.Text;
-                if (this.Text == "Untitled")
-                    richTextBox1.SaveFile(sfd.FileName, RichTextBoxStreamType.PlainText);
-                else
+                try
                 {
-                    sfd.FileName = this.Text;
-                    richTextBox1.SaveFile(sfd.FileName, RichTextBoxStreamType.PlainText);
+                    StreamWriter sw = new StreamWriter(path);
+                    sw.Write(richTextBox1.Text);
+                    sw.Close();
                 }
-                this.Text = sfd.FileName;
-                //
-                currentFileLoc = sfd.FileName;
-                return 1;
+                catch (IOException ioe)
+                {
+
+                    MessageBox.Show("Error saving file: " + ioe.Message);
+                }
             }
+            //if (currentFileLoc != null)
+            //{
+            //    using (StreamWriter writer = new StreamWriter(currentFileLoc))
+            //    {
+            //        writer.WriteLine(richTextBox1.Text);
+            //    }
+            //}
+            //else
+            //    SaveFile();
         }
+
+
+        //private int SaveFile()
+        //{
+        //    sfd.Filter = "Text Documents|*.txt";
+        //    sfd.DefaultExt = "txt";
+        //    if (sfd.ShowDialog() == DialogResult.Cancel)
+        //    {
+        //        richTextBox1.Focus();
+        //        return 0;
+        //    }
+        //    else
+        //    {
+        //        contents = richTextBox1.Text;
+        //        if (this.Text == "Untitled")
+        //            richTextBox1.SaveFile(sfd.FileName, RichTextBoxStreamType.PlainText);
+        //        else
+        //        {
+        //            sfd.FileName = this.Text;
+        //            richTextBox1.SaveFile(sfd.FileName, RichTextBoxStreamType.PlainText);
+        //        }
+        //        this.Text = sfd.FileName;
+        //        //
+        //        currentFileLoc = sfd.FileName;
+        //        return 1;
+        //    }
+        //}
 
 
         private void fontToolStripMenuItem_Click(object sender, EventArgs e)
@@ -108,9 +143,15 @@ namespace notepad
 
         }
 
+        
+
+ 
+
         private void aboutUsToolStripMenuItem_Click(object sender, EventArgs e)
         {
+       
             MessageBox.Show("Developed & Design by: Rumman\nCode: https://github.com/MRummanHasan/socket-programming \nConcept by: Microsoft Notepad");
+       
         }
 
         private void wrapTextToolStripMenuItem_Click(object sender, EventArgs e)

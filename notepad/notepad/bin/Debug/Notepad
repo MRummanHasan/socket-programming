@@ -1,11 +1,59 @@
+Dosseg
+.model small
+.stack 100h
+.data
+array db 9 dup('$')
+String1 db 'Enter string: $'
+Length1 db 'string length is: $'
 
-<body>
-<div class="container"></div> 
-<ul class="breadcrumb">
-<li><a href="">Home</a></li>
-<li><a href="">About</a></li>
-<li><a href="">Contact</a></li>
-<li><a href="">Get Lost</a></li>
-</ul>
-</body>
-</html>
+
+.code
+main proc
+
+mov ax,@data
+mov ds,ax
+
+
+
+lea si,arr
+mov cx,9
+mov bl,0
+
+lea dx,var1
+mov ah,9
+int 21h
+
+lb:
+mov ah,1
+int 21h
+cmp al,13
+je print
+mov [si],al
+inc si
+
+add bl,1
+loop lb
+
+; lea bx,arr
+
+print:
+mov dl,10
+mov ah,2
+int 21h
+
+lea dx,var2
+mov ah,9
+int 21h
+
+;lea dl,[bx]
+mov dl,bl
+add dl,48
+;mov ah,2
+mov ah,2
+int 21h
+
+mov ah,4ch
+int 21h
+
+main endp
+end main

@@ -6,3 +6,11 @@ C:\Users\glab.KIETNN\Desktop\notepad\notepad\obj\Debug\notepad.Properties.Resour
 C:\Users\glab.KIETNN\Desktop\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.Cache
 C:\Users\glab.KIETNN\Desktop\notepad\notepad\obj\Debug\notepad.exe
 C:\Users\glab.KIETNN\Desktop\notepad\notepad\obj\Debug\notepad.pdb
+C:\Users\glab\Desktop\TESTCASEsocket-programming-master\socket-programming-master\notepad\notepad\obj\Debug\notepad.exe
+C:\Users\glab\Desktop\TESTCASEsocket-programming-master\socket-programming-master\notepad\notepad\obj\Debug\notepad.pdb
+C:\Users\glab\Desktop\TESTCASEsocket-programming-master\socket-programming-master\notepad\notepad\bin\Debug\notepad.exe
+C:\Users\glab\Desktop\TESTCASEsocket-programming-master\socket-programming-master\notepad\notepad\bin\Debug\notepad.pdb
+C:\Users\glab\Desktop\TESTCASEsocket-programming-master\socket-programming-master\notepad\notepad\obj\Debug\notepad.csprojResolveAssemblyReference.cache
+C:\Users\glab\Desktop\TESTCASEsocket-programming-master\socket-programming-master\notepad\notepad\obj\Debug\notepad.Form1.resources
+C:\Users\glab\Desktop\TESTCASEsocket-programming-master\socket-programming-master\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+C:\Users\glab\Desktop\TESTCASEsocket-programming-master\socket-programming-master\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.Cache
