@@ -1,0 +1,6 @@
+C:\Users\glab\Desktop\Threading\Threading\bin\Debug\Threading.exe.config
+C:\Users\glab\Desktop\Threading\Threading\bin\Debug\Threading.exe
+C:\Users\glab\Desktop\Threading\Threading\bin\Debug\Threading.pdb
+C:\Users\glab\Desktop\Threading\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+C:\Users\glab\Desktop\Threading\Threading\obj\Debug\Threading.exe
+C:\Users\glab\Desktop\Threading\Threading\obj\Debug\Threading.pdb
