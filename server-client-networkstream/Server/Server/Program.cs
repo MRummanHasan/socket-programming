@@ -14,23 +14,29 @@ namespace Server
         {
             TcpListener server = new TcpListener(8888);
             server.Start();
-            Console.WriteLine("Server Started. \n Waiting for clients...");
-
+            Console.WriteLine("Server Started & Waiting for client...");
             Socket socketForClinets = server.AcceptSocket();
 
             if (socketForClinets.Connected)
             {
+                // send message to client
                 NetworkStream ns = new NetworkStream(socketForClinets);
                 StreamWriter sw = new StreamWriter(ns);
 
                 Console.WriteLine("Server: Welcome Client");
-                sw.WriteLine("Welcome Client");
-                
+                sw.WriteLine("WELCOME Client");
                 sw.Flush();
+
+                // Get message from client
+                StreamReader sr = new StreamReader(ns);
+                Console.WriteLine("Client >> " + sr.ReadLine());
                 sw.Close();
                 ns.Close();
             }
+
             socketForClinets.Close();
+
+            Console.ReadKey();
         }
     }
 }

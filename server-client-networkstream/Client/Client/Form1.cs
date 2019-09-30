@@ -28,6 +28,21 @@ namespace Client
 
         private void btnSend_Click(object sender, EventArgs e)
         {
+            if (txtboxServerMsg.Text != "")
+            {
+                NetworkStream ns = client.GetStream();
+                StreamWriter sw = new StreamWriter(ns);
+                sw.WriteLine(txtBoxClientMsg.Text);
+
+                sw.Flush();
+                sw.Close();
+                ns.Close();
+            }
+
+        }
+
+        private void txtBoxClientMsg_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }

@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.txtboxServerMsg = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtBoxClientMsg = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.btnSend = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
@@ -43,12 +43,13 @@
             this.txtboxServerMsg.Size = new System.Drawing.Size(310, 181);
             this.txtboxServerMsg.TabIndex = 0;
             // 
-            // textBox2
+            // txtBoxClientMsg
             // 
-            this.textBox2.Location = new System.Drawing.Point(32, 254);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(192, 20);
-            this.textBox2.TabIndex = 1;
+            this.txtBoxClientMsg.Location = new System.Drawing.Point(32, 254);
+            this.txtBoxClientMsg.Name = "txtBoxClientMsg";
+            this.txtBoxClientMsg.Size = new System.Drawing.Size(192, 20);
+            this.txtBoxClientMsg.TabIndex = 1;
+            this.txtBoxClientMsg.TextChanged += new System.EventHandler(this.txtBoxClientMsg_TextChanged);
             // 
             // label1
             // 
@@ -86,10 +87,13 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnSend);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.txtBoxClientMsg);
             this.Controls.Add(this.txtboxServerMsg);
+            this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.ShowIcon = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Client";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -98,7 +102,7 @@
         #endregion
 
         private System.Windows.Forms.TextBox txtboxServerMsg;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtBoxClientMsg;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnSend;
         private System.Windows.Forms.Label label2;
