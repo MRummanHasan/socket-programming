@@ -1,0 +1,9 @@
+C:\Users\glab.KIETNN\Desktop\SendEmailwithCode\SendEmailwithCode\bin\Debug\SendEmailwithCode.exe.config
+C:\Users\glab.KIETNN\Desktop\SendEmailwithCode\SendEmailwithCode\bin\Debug\SendEmailwithCode.exe
+C:\Users\glab.KIETNN\Desktop\SendEmailwithCode\SendEmailwithCode\bin\Debug\SendEmailwithCode.pdb
+C:\Users\glab.KIETNN\Desktop\SendEmailwithCode\SendEmailwithCode\obj\Debug\SendEmailwithCode.csprojResolveAssemblyReference.cache
+C:\Users\glab.KIETNN\Desktop\SendEmailwithCode\SendEmailwithCode\obj\Debug\SendEmailwithCode.Form1.resources
+C:\Users\glab.KIETNN\Desktop\SendEmailwithCode\SendEmailwithCode\obj\Debug\SendEmailwithCode.Properties.Resources.resources
+C:\Users\glab.KIETNN\Desktop\SendEmailwithCode\SendEmailwithCode\obj\Debug\SendEmailwithCode.csproj.GenerateResource.Cache
+C:\Users\glab.KIETNN\Desktop\SendEmailwithCode\SendEmailwithCode\obj\Debug\SendEmailwithCode.exe
+C:\Users\glab.KIETNN\Desktop\SendEmailwithCode\SendEmailwithCode\obj\Debug\SendEmailwithCode.pdb
