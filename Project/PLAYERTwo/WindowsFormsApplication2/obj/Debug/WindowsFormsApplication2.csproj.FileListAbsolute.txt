@@ -1,0 +1,36 @@
+C:\Users\Ashhad Ullah\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ashhad Ullah\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ashhad Ullah\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ashhad Ullah\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ashhad Ullah\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ashhad Ullah\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ashhad Ullah\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ashhad Ullah\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ashhad Ullah\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\SERVER\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\SERVER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\SERVER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ashhad Ullah\Desktop\desktopProgram\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\bin\Debug\dje\WindowsFormsApplication2.resources.dll
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.dje.resources
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLUE PLAYER\WindowsFormsApplication2\obj\Debug\dje\WindowsFormsApplication2.resources.dll

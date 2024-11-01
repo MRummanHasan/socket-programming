@@ -1,0 +1,9 @@
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLACK PLAYER\wind\bin\Debug\wind.exe.config
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLACK PLAYER\wind\bin\Debug\wind.exe
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLACK PLAYER\wind\bin\Debug\wind.pdb
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLACK PLAYER\wind\obj\Debug\wind.csprojAssemblyReference.cache
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLACK PLAYER\wind\obj\Debug\wind.Form1.resources
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLACK PLAYER\wind\obj\Debug\wind.Properties.Resources.resources
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLACK PLAYER\wind\obj\Debug\wind.csproj.GenerateResource.cache
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLACK PLAYER\wind\obj\Debug\wind.exe
+C:\Users\hussain\Desktop\WindowsFormsApplication2-20191126T135126Z-001\WindowsFormsApplication2\BLACK PLAYER\wind\obj\Debug\wind.pdb
